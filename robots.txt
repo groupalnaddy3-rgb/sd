@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://groupalnaddy3-rgb.github.io/sd/sitemap.xml
